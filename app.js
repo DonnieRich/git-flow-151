@@ -1,1 +1,1 @@
-console.log("Hello Git Flow! May I help you?");
+console.log("This is the right message");
